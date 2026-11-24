@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toylek_bg">#FF0E0B10</color>
+    <color name="toylek_gold">#FFD4AF6A</color>
+
+    <style name="Theme.Toylek" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/toylek_bg</item>
+        <item name="android:statusBarColor">@color/toylek_bg</item>
+        <item name="android:navigationBarColor">@color/toylek_bg</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorAccent">@color/toylek_gold</item>
+    </style>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Корпус камеры -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFD4AF6A"
+        android:strokeWidth="3.5"
+        android:pathData="M34,44 L44,44 L48,38 L60,38 L64,44 L74,44 Q78,44 78,48 L78,70 Q78,74 74,74 L34,74 Q30,74 30,70 L30,48 Q30,44 34,44 Z" />
+    <!-- Объектив -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFD4AF6A"
+        android:strokeWidth="3.5"
+        android:pathData="M54,49 A10,10 0 1,1 53.99,49 Z" />
+    <!-- Сердце в объективе -->
+    <path
+        android:fillColor="#FFF3E3C3"
+        android:pathData="M54,63.5 L48.8,58.4 Q46.6,56 48.6,53.9 Q50.8,52 54,55 Q57.2,52 59.4,53.9 Q61.4,56 59.2,58.4 Z" />
+</vector>
